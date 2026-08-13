@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-3nvm75.date-me.pro/sitemap.xml
